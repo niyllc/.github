@@ -6,4 +6,6 @@ Welcome fellow software developer 😀 Please read this short & self-explainitor
 
 We know that you have a wonderful idea that will support our project. First, you need to clone the repository that you want to work in to your computer. You can do this by using the [Git Products](https://git-scm.com/) or using the Github Desktop. Write your beautiful chunk of code and go to the next step!
 
-### 
+### Testing Your Code
+
+All of the codes are perfect but they should not break our system. Make sure you apply the test before you commit and create a pull request. Firs
