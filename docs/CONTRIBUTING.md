@@ -8,4 +8,4 @@ We know that you have a wonderful idea that will support our project. First, you
 
 ### Testing Your Code
 
-All of the codes are perfect but they should not break our system. Make sure you apply the test before you commit and create a pull request. Firs
+All of the codes are perfect but they should not break our system. Make sure you apply the test before you commit and create a pull request. First, run the tests. If it crashes, try to fix the code. If it doesn't go ahead and commit it!
